@@ -1,1 +1,6 @@
 llama-index==0.10.39
+llama-index-embeddings-huggingface==0.2.1
+notebook==7.2.0
+torch==2.3.0+cpu
+
+--extra-index-url https://download.pytorch.org/whl/cpu
